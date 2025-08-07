@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "pk~KhIgDQzT#49L0RKNSz3cLdIcQk8AFkMKObfU1KA-BLIhxx9ww3h0",
       "required": true,
       "value": ""
     },
@@ -17,7 +17,7 @@
       "value": "PK-XMD"
     },
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": "2",
       "required": false,
       "value": "."
     },
